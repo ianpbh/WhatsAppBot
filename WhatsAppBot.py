@@ -25,8 +25,8 @@ def flood(navegador):
 def loginWhatsapp(navegador):
     navegador.get("http://web.whatsapp.com")
     time.sleep(3)
-    navegador.save_screenshot('qrcode.png')
-    image = opencv.imread('qrcode.png')
+    navegador.save_screenshot('qrcode/qrcode.png')
+    image = opencv.imread('qrcode/qrcode.png')
     time.sleep(2)
     opencv.imshow('QR Code (Pressione qualquer tecla quando tiver escaneado)',image)
     time.sleep(2)

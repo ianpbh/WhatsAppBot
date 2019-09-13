@@ -1,2 +1,2 @@
-geckodriver.log
-qrcode.png
+qrcode/*.png
+*log
