@@ -24,7 +24,7 @@ def flood(navegador):
 
 def loginWhatsapp(navegador):
     navegador.get("http://web.whatsapp.com")
-    time.sleep(10)
+    time.sleep(3)
     navegador.save_screenshot('qrcode.png')
     image = opencv.imread('qrcode.png')
     time.sleep(2)
@@ -32,39 +32,41 @@ def loginWhatsapp(navegador):
     time.sleep(2)
     while True:
         try:
+            opencv.waitKey(1)
             navegador.find_element_by_class_name('_2rZZg')
-            time.sleep(2)
-            opencv.waitKey(0)
+            time.sleep(1)
             opencv.destroyAllWindows()
             break
         except:
-            print("Não aberto")
-            time.sleep(5)
-    time.sleep(10)
+            time.sleep(1)
+    time.sleep(5)
     buscaConversas(navegador)
     # flood(navegador)
-    # pegaCookies(navegador)
     
 def buscaConversas(navegador):
+    navegador.execute_script("document.getElementById('pane-side').scroll(0,3000)")
+    time.sleep(2)
     conversas = navegador.find_elements_by_class_name('_2WP9Q')
     for conversa in conversas:
+        nomeChat = conversa.find_element_by_class_name("_19RFN")
+        print(bcolors.WARNING + "Conversa com: " + nomeChat.text + bcolors.ENDC)
         conversa.click()
-        time.sleep(2)
+        time.sleep(3)
+        for i in range(10):
+            navegador.execute_script("document.getElementsByClassName('_1_keJ')[0].scroll(0,0)")
+            time.sleep(0.5)
         mensagens = navegador.find_elements_by_class_name('_12pGw')
         for mensagem in mensagens:
             try:
                 messageSide = mensagem.find_element_by_xpath("../../..").get_attribute('class')
                 textoMensagem = mensagem.find_element_by_xpath(".//span/span").text 
                 if(messageSide.split(' ')[2]) == "message-out":
-                    indicador = bcolors.OKBLUE + "Você: "
+                    indicador = bcolors.OKBLUE + mensagem.find_element_by_xpath("..").get_attribute('data-pre-plain-text')
                 else:
-                    indicador = bcolors.OKGREEN + "Pessoa: "
+                    indicador = mensagem.find_element_by_xpath("..").get_attribute('data-pre-plain-text')
                 print(indicador + textoMensagem + bcolors.ENDC)
             except:
-                print("Mensagem inválida")
-
-def pegaCookies(navegador):
-    print(navegador.get_cookies())
+                print(bcolors.FAIL + "Mensagem inválida"+ bcolors.ENDC)
 
 while True:
     opcaoNavegador = input("Deseja visualizar o navegador? (S/N) ")

@@ -726,3 +726,477 @@ JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2
 JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
 JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
 JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568378168560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3GOIyer9JgMV"
+*** You are running in headless mode.
+1568378174306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378174306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378174307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378174307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378181435	Marionette	INFO	Listening on port 34719
+1568378181524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568378328271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RYJZAr48K3qs"
+*** You are running in headless mode.
+1568378328980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378328980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378328980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378328980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378331653	Marionette	INFO	Listening on port 43231
+1568378331684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568378375781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oOVeJhrNQiDS"
+*** You are running in headless mode.
+1568378376346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378376346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378376346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378376346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378379083	Marionette	INFO	Listening on port 40801
+1568378379091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568378413511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Eiq5SUzMbNKG"
+*** You are running in headless mode.
+1568378414081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378414082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378414082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378414082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378416984	Marionette	INFO	Listening on port 38583
+1568378417019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568378447941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ck7n7XVw1GWv"
+*** You are running in headless mode.
+1568378448497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378448497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378448498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378448498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378451177	Marionette	INFO	Listening on port 34761
+1568378451250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568378503627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JIeajnHmpmNK"
+1568378504207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378504207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378504207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378504207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378507097	Marionette	INFO	Listening on port 44545
+1568378507135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568378599721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A0KeGJxzxbK1"
+1568378600384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378600384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378600385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378600385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378602997	Marionette	INFO	Listening on port 36455
+1568378603039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+[Parent 7714, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7714, Gecko_IOThread] WARNING: pipe error (87): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1568378667981	Marionette	INFO	Stopped listening on port 36455
+[Parent 7394, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7394, Gecko_IOThread] WARNING: pipe error (102): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1568378707817	Marionette	INFO	Stopped listening on port 44545
+1568378723671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.07oVRYFlzNNe"
+*** You are running in headless mode.
+1568378724266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378724266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378724267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378724267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378726874	Marionette	INFO	Listening on port 44615
+1568378726883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568378812142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4ZTPY4msEZG2"
+*** You are running in headless mode.
+1568378812722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378812723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378812723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378812723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378815263	Marionette	INFO	Listening on port 41051
+1568378815350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568378879722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KaRfUcwhiaOY"
+*** You are running in headless mode.
+1568378880279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378880306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378880306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378880306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378882998	Marionette	INFO	Listening on port 35381
+1568378883067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568378972324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ggkeBd7mE5rP"
+*** You are running in headless mode.
+1568378972866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568378972866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568378972882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568378972882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568378975438	Marionette	INFO	Listening on port 43151
+1568378975532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+[Child 9166, Chrome_ChildThread] WARNING: pipe error (50): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1568379034709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WtzjDm9gts1D"
+*** You are running in headless mode.
+1568379035295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568379035295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568379035295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568379035295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568379037911	Marionette	INFO	Listening on port 34251
+1568379037920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 9587, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1568379196791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7pkxnXR2GghZ"
+*** You are running in headless mode.
+1568379197356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568379197357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568379197357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568379197357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568379200292	Marionette	INFO	Listening on port 45509
+1568379200304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568379779073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2btrfduge1kP"
+*** You are running in headless mode.
+1568379779683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568379779683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568379779683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568379779683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568379782484	Marionette	INFO	Listening on port 38283
+1568379782581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568380374157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WFCiThd5lUhp"
+*** You are running in headless mode.
+1568380374753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568380374753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568380374753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568380374753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568380377434	Marionette	INFO	Listening on port 36099
+1568380377467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568382027243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7LYgYtTvTM4c"
+*** You are running in headless mode.
+1568382027786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568382027786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568382027786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568382027786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568382030427	Marionette	INFO	Listening on port 33865
+1568382030458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1568382069377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.klcHC3WeJ2bf"
+*** You are running in headless mode.
+1568382071562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568382071563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568382071563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568382071563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568382075537	Marionette	INFO	Listening on port 42153
+1568382075588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1568382214897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MFjAIXeG6ngj"
+*** You are running in headless mode.
+1568382215686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568382215686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568382215686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568382215686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568382218566	Marionette	INFO	Listening on port 46785
+1568382218607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568382482517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K32ewOtuID0n"
+*** You are running in headless mode.
+1568382483096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568382483096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568382483096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568382483096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568382485674	Marionette	INFO	Listening on port 44037
+1568382485725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1568382600799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hWdzGijVgcc5"
+*** You are running in headless mode.
+1568382601403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568382601403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568382601404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568382601404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568382604086	Marionette	INFO	Listening on port 38987
+1568382604313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568383188463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VGBDJn0QdG9e"
+*** You are running in headless mode.
+1568383189048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568383189048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568383189048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568383189048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568383191765	Marionette	INFO	Listening on port 34817
+1568383191828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568383440806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v422UGKtt88q"
+*** You are running in headless mode.
+1568383441391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568383441392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568383441392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568383441392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568383443966	Marionette	INFO	Listening on port 41531
+1568383444014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568384271638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kjjlp2Y6Upat"
+1568384272219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568384272220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568384272220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568384272220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568384275939	Marionette	INFO	Listening on port 35327
+1568384275947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568384319865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iBPJdFLWenZz"
+1568384320901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568384320901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568384320901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568384320901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568384324162	Marionette	INFO	Listening on port 39331
+1568384324175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568384327089	Marionette	INFO	Stopped listening on port 35327
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 20372, Chrome_ChildThread] WARNING: pipe error (52): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 20372, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 20372, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 20372, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[Child 20372, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1568384420607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qn7A7QZh3tDl"
+1568384421212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568384421212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568384421213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568384421213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568384423843	Marionette	INFO	Listening on port 41335
+1568384423917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568384460050	Marionette	INFO	Stopped listening on port 41335
+1568384842911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ocyRlDWEOf8D"
+1568384843510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568384843511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568384843511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568384843511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568384846144	Marionette	INFO	Listening on port 46239
+1568384846219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+[Parent 21563, Gecko_IOThread] WARNING: pipe error (118): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1568384885177	Marionette	INFO	Stopped listening on port 46239
+1568384925996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uUszZK13NbKe"
+1568384926889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568384926889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568384926890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568384926890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568384929529	Marionette	INFO	Listening on port 41739
+1568384929605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+[Parent 21910, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 21910, Gecko_IOThread] WARNING: pipe error (97): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1568385270990	Marionette	INFO	Stopped listening on port 41739
+1568385277199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uQwcNeuzky05"
+*** You are running in headless mode.
+1568385277794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568385277794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568385277794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568385277795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568385280358	Marionette	INFO	Listening on port 43895
+1568385280406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568385332991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h12vfY70yTeZ"
+*** You are running in headless mode.
+1568385333549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568385333549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568385333549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568385333549	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568385336202	Marionette	INFO	Listening on port 39927
+1568385336299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+1568386176789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RSoRZxyVxDLu"
+1568386177753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386177754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386177754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386177754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386180692	Marionette	INFO	Listening on port 39575
+1568386180720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568386276715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YbxoyTb8A710"
+*** You are running in headless mode.
+1568386278682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386278682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386278735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386278735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386283048	Marionette	INFO	Listening on port 45705
+1568386283129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568386300114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2M8MEjvbRV9p"
+*** You are running in headless mode.
+1568386300662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386300662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386300662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386300662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386302861	Marionette	INFO	Listening on port 42045
+1568386302929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+[Child 24560, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1568386423429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rcOMXWMA0Gb3"
+*** You are running in headless mode.
+1568386424213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386424213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386424213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386424213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386427018	Marionette	INFO	Listening on port 37545
+1568386427038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568386573769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cIC6QXcmtbKn"
+*** You are running in headless mode.
+1568386574318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386574318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386574318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386574318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386577032	Marionette	INFO	Listening on port 41003
+1568386577087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 25470, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1568386787973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dU2Pa3WHZLNt"
+*** You are running in headless mode.
+1568386789396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386789396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386789396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386789396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386792380	Marionette	INFO	Listening on port 37681
+1568386792485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1568386954170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--user-data-dir=./User_Data" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jXbWBAXh8eia"
+*** You are running in headless mode.
+1568386954768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568386954768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568386954768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568386954768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568386956982	Marionette	INFO	Listening on port 45609
+1568386957077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.5b1c3ef6635fc7ae23c7.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 26272, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-CHssOs/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
