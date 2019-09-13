@@ -1,3 +1,4 @@
 qrcode/*.png
 *log
 .vscode/
+conversas.txt

@@ -47,12 +47,14 @@ def buscaConversas(navegador):
     navegador.execute_script("document.getElementById('pane-side').scroll(0,3000)")
     time.sleep(2)
     conversas = navegador.find_elements_by_class_name('_2WP9Q')
+    arquivoConversa = open("conversas.txt","w+")
     for conversa in conversas:
         nomeChat = conversa.find_element_by_class_name("_19RFN")
         print(bcolors.WARNING + "Conversa com: " + nomeChat.text + bcolors.ENDC)
+        arquivoConversa.write("Conversa com: " + nomeChat.text + "\n")
         conversa.click()
         time.sleep(3)
-        for i in range(10):
+        for i in range(15):
             navegador.execute_script("document.getElementsByClassName('_1_keJ')[0].scroll(0,0)")
             time.sleep(0.5)
         mensagens = navegador.find_elements_by_class_name('_12pGw')
@@ -64,9 +66,13 @@ def buscaConversas(navegador):
                     indicador = bcolors.OKBLUE + mensagem.find_element_by_xpath("..").get_attribute('data-pre-plain-text')
                 else:
                     indicador = mensagem.find_element_by_xpath("..").get_attribute('data-pre-plain-text')
+
                 print(indicador + textoMensagem + bcolors.ENDC)
+                arquivoConversa.write(indicador + textoMensagem + "\n")
             except:
-                print(bcolors.FAIL + "Mensagem inválida"+ bcolors.ENDC)
+                print(bcolors.FAIL + "Mensagem inválida" + bcolors.ENDC)
+                arquivoConversa.write("Mensagem inválida" + "\n")
+                
 
 while True:
     opcaoNavegador = input("Deseja visualizar o navegador? (S/N) ")
@@ -78,7 +84,6 @@ while True:
 profile = webdriver.FirefoxProfile()
 profile.set_preference("dom.webnotifications.enabled", False)
 opcoes = webdriver.FirefoxOptions()
-opcoes.add_argument('--user-data-dir=./User_Data')
 if opcaoNavegador.upper() == "S":
     navegador = webdriver.Firefox(firefox_profile=profile)
 else:
